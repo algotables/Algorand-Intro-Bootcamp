@@ -4,4 +4,4 @@ These sessions are designed for developers who want to learn how to build on Alg
 
 # Link to Certification 
 
-[website]https://ipfs.algonode.xyz/ipfs/bafkreiglefohgb3mgvnr3hhzbsgaefgi56co4qeiium6fyhymcuxz4nj3m?optimizer=image&width=1152&quality=70[website]
+https://ipfs.algonode.xyz/ipfs/bafkreiglefohgb3mgvnr3hhzbsgaefgi56co4qeiium6fyhymcuxz4nj3m?optimizer=image&width=1152&quality=70
